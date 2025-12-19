@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Fatima | Technical Writer & Finance Content Specialist
+title: Fatima | Technical Documentation Specialist (SaaS & Fintech)
 ---
 
-# Fatima [Your Last Name]
-### Technical Writer | Finance Content Specialist | English Literature Graduate
+# Fatima [Umair]
+### Technical Documentation Specialist | SaaS & Fintech
 
 Welcome to my professional portfolio. I specialize in creating clear, high-impact documentation that bridges the gap between complex financial systems and global users.
 
@@ -26,5 +26,5 @@ Welcome to my professional portfolio. I specialize in creating clear, high-impac
 
 ## 📬 Contact Me
 I am available for remote international opportunities. Let's connect!
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Professional Email]
+* **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/fatima-umair-56b337224/)]
+* **Email:** [fatimaumair360@gmail.com]
