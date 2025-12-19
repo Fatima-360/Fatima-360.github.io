@@ -1,3 +1,7 @@
+---
+layout: default
+title: EuroFlow User Guide
+---
 # EuroFlow Quick-Start Guide: Submitting Expenses
 **Target Audience:** Remote Employees
 
