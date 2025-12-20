@@ -26,5 +26,5 @@ Welcome to my professional portfolio. I specialize in creating clear, high-impac
 
 ## 📬 Contact Me
 I am available for remote international opportunities. Let's connect!
-* **LinkedIn:** [https://www.linkedin.com/in/fatima-umair-56b337224/](https://www.linkedin.com/in/fatima-umair-56b337224/)]
+* **LinkedIn:** [[https://www.linkedin.com/in/fatima-umair-56b337224/](https://www.linkedin.com/in/fatima-umair-56b337224/)]
 * **Email:** [fatimaumair360@gmail.com]
