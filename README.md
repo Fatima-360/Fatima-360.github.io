@@ -9,9 +9,10 @@ I am a Technical Writer with an English Literature background, dedicated to maki
 
 | Project | Value Proposition |
 | :--- | :--- |
-| **[EuroFlow User Guide](https://fatima-360.github.io/euroflow-guide.html)** | Simplifies complex payment flows to decrease support tickets. |
-| **[Financial SOP](https://fatima-360.github.io/financial-sop.html)** | Mitigates legal risk by standardizing EU regulatory processes. |
-| **[glossary.html](https://fatima-360.github.io/glossary.html)** | Establishes a "Single Source of Truth" for fintech terminology. |
+| [EuroFlow User Guide](https://fatima-360.github.io/euroflow-guide.html) | Simplifies complex payment flows to decrease support tickets. |
+| [Financial SOP](https://fatima-360.github.io/financial-sop.html) | Mitigates legal risk by standardizing EU regulatory processes. |
+| [Technical Glossary](https://fatima-360.github.io/glossary.html) | Establishes a "Single Source of Truth" for fintech terminology. |
+| [UX Microcopy Study](https://fatima-360.github.io/ux-writing-finance.html) | Enhances retention by replacing jargon with solution-oriented copy. |
 
 ---
 
