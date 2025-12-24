@@ -11,7 +11,5 @@ I am a Technical Writer specializing in Fintech and SaaS documentation.
 - [EuroFlow User Guide](./euroflow-guide.html)
 - [Financial SOP](./financial-sop.html)
 - [Technical Glossary](./glossary.html)
-- [UX Microcopy Study](./ux-writing-finance.html)
-
 ---
 [View my GitHub Profile](https://github.com/Fatima-360)
