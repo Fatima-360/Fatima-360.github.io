@@ -23,6 +23,7 @@ As a Technical Writer, my goal was to bridge the gap between complex EU financia
 ### **Phase 2: Information Architecture**
 * **Workflow Mapping:** Simplified the multi-stage tax process into a logical **3-step framework** (Extract, Verify, Reconcile) to ensure zero confusion for the finance team.
 * **Task Analysis:** Identified the "Reverse Charge" mechanism as a key pain point and documented it as a priority verification step.
+* **Terminological Consistency:** Developed a Technical Glossary alongside the SOP to standardize definitions for complex terms like VIES and Reverse Charge, ensuring clear communication between the finance and engineering teams.
 
 ### **Phase 3: Technical Authoring (Docs-as-Code)**
 * **Authoring:** Wrote the SOP in **Markdown** to ensure it is lightweight, portable, and easy for developers to integrate into the company's internal wiki.
