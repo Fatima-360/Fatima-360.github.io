@@ -15,9 +15,8 @@ I am a **Technical & Content Writer** specializing in Fintech. I bridge the gap 
 * [Technical Glossary](./glossary.html) — Single source of truth for fintech terminology.
 
 ### ✍️ Content Writing & Strategy
-* **Financial Literacy Blog:** [3 Tips for Safe Online Banking](./banking-tips.html) — *Example of simplifying complex security for general users*.
-* **Social Media Portfolio:** [Fintech Engagement Samples](./social-media.html) — *Strategy for communicating product updates*.
-* **UX Copywriting:** [Improving App Onboarding](./ux-copy.html) — *Case study on reducing user drop-off through better word choice*.
+* **[Case Study: Simplifying Financial Security](./content-case-study.html)** — *A deep dive into transforming complex technical security into human-first marketing content.*
+* **Fintech Expertise:** Specialized in Financial Literacy Blogs, Social Media Product Updates, and UX Microcopy for app onboarding.
 
 ---
 
