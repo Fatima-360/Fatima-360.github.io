@@ -20,3 +20,13 @@ This guide helps remote employees submit business expenses for reimbursement usi
 * **Methodology:** Built using a **Docs-as-Code** workflow, utilizing **Markdown** for content and **GitHub** for version control.
 * **Problem Solved:** Addressed common fintech "pain points" like multi-currency conversion and transaction status transparency to reduce support overhead.
 ---
+---
+## 🛠️ Troubleshooting & FAQs
+
+If you encounter issues while submitting your expenses, please check the following:
+
+* **Receipt Upload Failed:** Ensure your image is in **JPG** or **PNG** format and does not exceed **5MB**.
+* **Missing 'New Entry' Button:** Verify that your account has "Employee" permissions enabled in the Profile settings.
+* **Currency Discrepancy:** The app uses real-time mid-market rates. If the conversion looks incorrect, click **'Refresh Rates'** before submitting.
+
+> **Note:** For urgent reimbursement issues, please contact the **Finance Support Team** via the in-app chat.
