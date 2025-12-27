@@ -1,16 +1,27 @@
 ---
 layout: default
-title: Home
+title: Fatima | Portfolio
 ---
 
-# Welcome to Fatima's Portfolio
+# Welcome to My Portfolio
 
-I am a Technical Writer specializing in Fintech and SaaS documentation.
+I am a **Technical & Content Writer** specializing in Fintech. I bridge the gap between complex financial systems and user-friendly communication using a **Docs-as-Code** workflow.
 
-### 📂 Explore My Projects:
-| [EuroFlow User Guide](https://fatima-360.github.io/euroflow-guide.html) | Simplifies complex payment flows to decrease support tickets. |
-| [Financial SOP](https://fatima-360.github.io/financial-sop.html) | Mitigates legal risk by standardizing EU regulatory processes. |
-| [Technical Glossary](https://fatima-360.github.io/glossary.html) | Establishes a "Single Source of Truth" for fintech terminology. |
-| [UX Microcopy Study](https://fatima-360.github.io/ux-writing-finance.html) | Enhances retention by replacing jargon with solution-oriented copy. |
 ---
-[View my GitHub Profile](https://github.com/Fatima-360)
+
+### 📘 Technical Documentation
+* [EuroFlow User Guide](./euroflow-guide.html) — Technical manual for expense management.
+* [Financial SOP](./financial-sop.html) — Standard Operating Procedures for compliance.
+* [Technical Glossary](./glossary.html) — Single source of truth for fintech terminology.
+
+### ✍️ Content Writing & Strategy
+* **Blog Post:** *7 Ways to Speed Up Your Monthly Expense Reporting* (Coming Soon).
+* **Social Media:** UX Microcopy snippets for LinkedIn.
+* **UX Case Study:** [Financial Error Messages](./ux-writing-finance.html).
+
+---
+
+### 🛠️ My Tech Stack
+* **Languages:** Markdown, HTML.
+* **Tools:** GitHub, Git, VS Code.
+* **Workflow:** Docs-as-Code, Version Control.
