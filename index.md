@@ -26,3 +26,4 @@ I am a **Technical & Content Writer** specializing in the Fintech sector. I brid
 * **Languages:** Markdown, HTML.
 * **Tools:** GitHub, Git, VS Code.
 * **Process:** Docs-as-Code, Version Control, and Regulatory Research.
+
