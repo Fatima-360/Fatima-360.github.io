@@ -9,13 +9,16 @@ I am a **Technical & Content Writer** specializing in the Fintech sector. I brid
 
 ---
 
-### 📘 Technical Documentation
-* **[EuroFlow User Guide](./euroflow-guide.html)** — End-to-end user manual for a mobile expense management app.
-* **[SOP: EU VAT Reconciliation](./financial-sop.html)** — Standard Operating Procedure for cross-border tax compliance and data verification.
+## 📘 Technical Documentation
 
-### ✍️ Content Writing & Strategy
-* **[Case Study: Simplifying Financial Security](./content-case-study.html)** — Transforming technical security protocols into human-first marketing content.
-* **Fintech Expertise:** Specialized in Financial Literacy Blogs, Social Media updates, and UX Microcopy.
+* [EuroFlow User Guide](euroflow-guide) — End-to-end user manual for a mobile expense management app.
+* [SOP: EU VAT Reconciliation](financial-sop) — Standard Operating Procedure for cross-border tax compliance and data verification.
+* [Technical Glossary](technical-glossary) — Standardized fintech and SaaS terminology for cross-functional alignment.
+
+## ✍️ Content Writing & Strategy
+
+* [Case Study: UX Writing for EuroFlow](ux-writing-finance) — Strategy for reducing financial anxiety through user-centric microcopy.
+* [Fintech Expertise](blog-euroflow) — Specialized in Financial Literacy Blogs and Social Media updates.
 
 ---
 
