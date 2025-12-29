@@ -15,9 +15,8 @@ title: Technical Glossary
 | **Technology** | **SaaS** | Software as a Service; a model where software is hosted centrally and accessed via the internet. |
 | **Documentation** | **Docs-as-Code** | An approach where documentation is treated like code, using version control (Git) and Markdown. |
 
-
-**Technical Glossary: The Single Source of Truth**
 ---
+**Technical Glossary: The Single Source of Truth**
 
 📌 The Challenge
 In Fintech, miscommunication between Engineering, Legal, and Marketing teams regarding terminology (e.g., "Settlement" vs. "Clearing") can lead to costly compliance errors.
