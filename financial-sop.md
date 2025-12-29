@@ -28,3 +28,29 @@ As a Technical Writer, my goal was to bridge the gap between complex EU financia
 ### **Phase 3: Technical Authoring (Docs-as-Code)**
 * **Authoring:** Wrote the SOP in **Markdown** to ensure it is lightweight, portable, and easy for developers to integrate into the company's internal wiki.
 * **Iterative Review:** Structured the document for "skimmability" using bold UI elements and hierarchical headings to reduce cognitive load during high-pressure audit seasons.
+
+**Case Study: Standardizing VAT Reconciliation for Fintech Compliance**
+📌 The Challenge (The Problem)
+Financial teams often struggle with manual VAT reconciliation processes that are fragmented across multiple spreadsheets. For a Fintech firm, this lack of standardization leads to:
+
+Audit Risks: High probability of errors during regulatory reviews.
+
+Inconsistency: Different team members following varying steps for the same process.
+
+Time Inefficiency: Significant hours lost to troubleshooting data discrepancies.
+
+🛠️ The Solution (My Role)
+I developed a comprehensive Standard Operating Procedure (SOP) using a Docs-as-Code workflow to ensure the documentation was version-controlled and easily accessible to the finance and engineering teams. My solution included:
+
+Process Mapping: Visualizing the data flow from transaction to tax filing using Mermaid.js diagrams.
+
+Step-by-Step Standardization: Defining exact validation rules for EU VAT Directive 2006/112/EC compliance.
+
+Automated Versioning: Hosting the SOP on GitHub so that every change is tracked and audit-ready.
+
+🚀 The Impact
+Audit Readiness: Reduced preparation time for internal audits by providing a "Single Source of Truth."
+
+Scalability: New hires can now be onboarded to the reconciliation process 40% faster.
+
+Compliance: Guaranteed 100% alignment with current EU financial reporting standards.
