@@ -16,6 +16,7 @@ title: Technical Glossary
 | **Documentation** | **Docs-as-Code** | An approach where documentation is treated like code, using version control (Git) and Markdown. |
 
 ---
+<br><br>
 **Technical Glossary: The Single Source of Truth**
 
 📌 The Challenge
