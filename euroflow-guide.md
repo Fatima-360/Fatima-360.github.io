@@ -33,8 +33,8 @@ If you encounter issues while submitting your expenses, please check the followi
 ---
 <br><br>
 
-
 **EuroFlow Guide: Mobile Banking Onboarding**
+
 📌 The Challenge
 Cross-border banking apps often suffer from high "churn" rates during the KYC (Know Your Customer) process because the instructions are too technical or intimidating for non-native speakers.
 ---
