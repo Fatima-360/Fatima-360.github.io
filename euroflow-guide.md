@@ -30,11 +30,10 @@ If you encounter issues while submitting your expenses, please check the followi
 * **Currency Discrepancy:** The app uses real-time mid-market rates. If the conversion looks incorrect, click **'Refresh Rates'** before submitting.
 
 > **Note:** For urgent reimbursement issues, please contact the **Finance Support Team** via the in-app chat.
-
+---
 
 
 **EuroFlow Guide: Mobile Banking Onboarding**
----
 📌 The Challenge
 Cross-border banking apps often suffer from high "churn" rates during the KYC (Know Your Customer) process because the instructions are too technical or intimidating for non-native speakers.
 ---
