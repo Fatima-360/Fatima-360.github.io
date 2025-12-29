@@ -34,8 +34,10 @@ If you encounter issues while submitting your expenses, please check the followi
 
 
 **EuroFlow Guide: Mobile Banking Onboarding**
+---
 📌 The Challenge
 Cross-border banking apps often suffer from high "churn" rates during the KYC (Know Your Customer) process because the instructions are too technical or intimidating for non-native speakers.
+---
 
 🛠️ The Solution
 I designed a user-centric guide that simplifies the onboarding journey. Key improvements included:
@@ -45,6 +47,7 @@ Microcopy Optimization: Replaced banking jargon with clear, actionable verbs.
 Visual Checklists: Used Markdown formatting to create "progress trackers" that help users visualize their journey.
 
 Accessibility Standards: Ensured instructions follow inclusive language patterns for a global audience.
+---
 
 🚀 The Impact
 Reduced Friction: Onboarding completion rates improved by clarifying document requirements upfront.
