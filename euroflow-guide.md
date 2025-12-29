@@ -31,6 +31,7 @@ If you encounter issues while submitting your expenses, please check the followi
 
 > **Note:** For urgent reimbursement issues, please contact the **Finance Support Team** via the in-app chat.
 ---
+<br><br>
 
 
 **EuroFlow Guide: Mobile Banking Onboarding**
