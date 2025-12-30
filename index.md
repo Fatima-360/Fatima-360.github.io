@@ -7,8 +7,9 @@ title: Fatima | Fintech Documentation Portfolio
 
 I am a **Technical & Content Writer** specializing in the Fintech sector. I bridge the gap between complex financial systems and user-friendly communication using a **Docs-as-Code** workflow.
 
----
 **💼 Open to remote Technical Writer / Fintech Documentation roles (Contract & Full-Time)**
+---
+
 
 ## 📘 Technical Documentation
 
