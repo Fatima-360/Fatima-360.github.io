@@ -9,6 +9,7 @@ I am a **Technical & Content Writer** specializing in the Fintech sector. I brid
 
 💼 Open to remote Technical Writer / Fintech Documentation roles (Contract & Full-Time)
 ---
+---
 
 
 ## 📘 Technical Documentation
