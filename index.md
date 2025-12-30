@@ -22,8 +22,14 @@ I am a **Technical & Content Writer** specializing in the Fintech sector. I brid
 
 ---
 
-### 🛠️ Tech Stack & Workflow
-* **Languages:** Markdown, HTML.
-* **Tools:** GitHub, Git, VS Code.
-* **Process:** Docs-as-Code, Version Control, and Regulatory Research.
+## 🛠️ Technical Ecosystem
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Documentation** | Markdown, Docs-as-Code Workflow, Docusaurus |
+| **Version Control** | Git, GitHub (Actions for CI/CD) |
+| **Visualization** | Mermaid.js (Diagrams-as-Code), Figma |
+| **Compliance** | EU VAT Directive 2006/112/EC, Audit-Ready Formatting |
+| **Environments** | VS Code, GitHub Pages |
+
+---
