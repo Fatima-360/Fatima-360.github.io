@@ -33,7 +33,7 @@ If you encounter issues while submitting your expenses, please check the followi
 ---
 <br><br>
 
-**EuroFlow Guide: Mobile Banking Onboarding**
+#EuroFlow Guide: Mobile Banking Onboarding#
 
 📌 The Challenge
 
