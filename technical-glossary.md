@@ -21,6 +21,7 @@ title: Technical Glossary
 **Technical Glossary: The Single Source of Truth**
 
 📌 The Challenge
+
 In Fintech, miscommunication between Engineering, Legal, and Marketing teams regarding terminology (e.g., "Settlement" vs. "Clearing") can lead to costly compliance errors.
 
 🛠️ The Solution
