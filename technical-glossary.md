@@ -21,17 +21,21 @@ title: Technical Glossary
 
 📌 The Challenge
 In Fintech, miscommunication between Engineering, Legal, and Marketing teams regarding terminology (e.g., "Settlement" vs. "Clearing") can lead to costly compliance errors.
+
 ---
+
 🛠️ The Solution
 I built a centralized, version-controlled glossary using a Docs-as-Code approach. This repository features:
 
-Standardized Definitions: One definitive meaning for over 50+ high-stakes financial terms.
+🔹Standardized Definitions: One definitive meaning for over 50+ high-stakes financial terms.
 
-Cross-Departmental Alignment: A shared resource accessible via GitHub for all stakeholders.
+🔹Cross-Departmental Alignment: A shared resource accessible via GitHub for all stakeholders.
 
-Agile Updates: The ability for any department to suggest updates via Pull Requests.
+🔹Agile Updates: The ability for any department to suggest updates via Pull Requests.
+
 ---
-🚀 The Impact
-Operational Clarity: Eliminated 90% of cross-departmental confusion regarding core product terminology.
 
-Consistent Branding: Ensured all external-facing documentation uses the same approved language.
+🚀 The Impact
+🔹Operational Clarity: Eliminated 90% of cross-departmental confusion regarding core product terminology.
+
+🔹Consistent Branding: Ensured all external-facing documentation uses the same approved language.
