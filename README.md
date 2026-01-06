@@ -1,8 +1,18 @@
-# Hi, I'm Fatima | Fintech Technical Writer & UX Strategist 🚀
+## 👋 Hi, I’m Fatima
 
-I specialize in bridging the gap between complex financial logic and user-centric design through **Docs-as-Code** workflows. With a background in English Literature, I translate "scary" regulatory requirements like **EU VAT** and **Compliance SOPs** into clear, actionable paths that reduce user friction and audit risks. 
+**Fintech Technical Writer | Docs-as-Code Specialist | Compliance & UX**
 
-**Expertise:** UX Microcopy | Regulatory Documentation (VAT/AML) | Markdown & GitHub version control.
+I help fintech and SaaS teams turn complex financial systems into clear, compliant, and user-friendly documentation.
+
+### What I specialize in
+- 📘 Regulatory & Compliance Documentation (SOPs, audit-ready workflows)
+- 🧩 Docs-as-Code (Markdown, Git, CI/CD-driven docs)
+- 🧠 UX-focused User Guides for non-technical users
+- 🗂 Information Architecture & content standardization
+
+💼 **Open to remote Technical Writer / Fintech Documentation roles**  
+*(Contract · Freelance · Full-Time)*
+
 ---
 
 ### 📂 Featured Documentation Projects
