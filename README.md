@@ -14,6 +14,9 @@ I help fintech and SaaS teams turn complex financial systems into clear, complia
 *(Contract · Freelance · Full-Time)*
 
 ---
+### 📂 Featured Case Study
+- [FinCore Wallet — Fintech Documentation Suite](link-to-repo)
+
 
 ### 📂 Featured Documentation Projects
 
