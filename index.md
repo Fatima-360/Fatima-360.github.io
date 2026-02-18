@@ -66,7 +66,13 @@ I specialize in documentation for:
 
 ## Contact
 
-Email:fatima.umair.docs@gmail.com 
-LinkedIn: www.linkedin.com/in/fatima-umair-56b337224
+## Contact
+
+**Email:** [fatima.umair.docs@gmail.com](mailto:fatima.umair.docs@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/fatima-umair-56b337224](https://www.linkedin.com/in/fatima-umair-56b337224)
+
+Based in Pakistan • Working with global clients
+
 
 Based in Pakistan • Working with global clients
