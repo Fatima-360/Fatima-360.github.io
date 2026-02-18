@@ -1,74 +1,69 @@
-# Fatima Umair — Fintech & SaaS Technical Writer
+# Fatima Umair  
+### Fintech & SaaS Technical Writer
 
-## Clear documentation for complex digital products
+Clear, structured documentation for complex digital products.
 
-I help Fintech and SaaS companies turn complex features, workflows, and regulations into clear, user-friendly documentation. My work improves onboarding, reduces support tickets, and supports compliance.
+I help Fintech and SaaS companies transform technical workflows, compliance processes, and product features into user-friendly documentation that improves onboarding and reduces support load.
 
 ---
 
-## What I Do
+## Expertise
 
-I specialize in documentation for:
+### Fintech Documentation
+- Digital Wallet User Guides
+- KYC & Identity Verification Documentation
+- Payment Flow Documentation
+- Compliance & SOP Writing
+- Financial Terminology Glossaries
 
-- Fintech products (wallets, payments, KYC, dashboards)
-- SaaS platforms (web and mobile applications)
-
-### Common Deliverables
-
-- User Guides & Onboarding Documentation
-- Standard Operating Procedures (SOPs)
-- Help Center & Knowledge Base Articles
-- Feature Walkthroughs
-- Fintech & SaaS Glossaries
+### SaaS Documentation
+- Feature Documentation
+- Onboarding Guides
+- Help Center Articles
+- Process Documentation (SOPs)
+- Knowledge Base Structuring
 
 ---
 
 ## Featured Projects
 
-### FinCore Wallet — User Onboarding & KYC Documentation
+### FinCore Wallet — Onboarding & KYC Documentation
+Structured step-by-step user guide for account creation and verification.
 
-**Audience:** New Fintech users  
-**Problem:** Users struggled with account creation and identity verification.  
-**Solution:** Created step-by-step onboarding and KYC documentation.
+- Account Setup Guide  
+- KYC Verification Process  
+- Error Handling & FAQ  
 
-**Deliverables:**
-- Account creation user guide
-- KYC verification guide
-- Common errors and FAQ
-
-[View Documentation](/fincore-wallet-documentation/)
+[View Documentation →](/fincore-wallet-documentation/)
 
 ---
 
-### EuroFlow — VAT Reconciliation SOP & User Guide
+### EuroFlow — VAT Reconciliation SOP
+Compliance-focused documentation for finance teams.
 
-**Audience:** Finance and compliance teams  
-**Problem:** VAT reconciliation steps were inconsistent.  
-**Solution:** Created structured SOP and compliance-focused documentation.
+- VAT Reconciliation SOP  
+- Process Workflow Guide  
+- Compliance Explanation  
 
-**Deliverables:**
-- VAT Reconciliation SOP
-- Compliance-focused user guide
-
-[View Project](/Fatima-360/)
+[View Project →](/Fatima-360/)
 
 ---
 
 ## How I Work
 
-1. Understand the product, users, and business goals  
-2. Analyze workflows and features  
-3. Structure content for clarity  
-4. Write in simple, global English  
-5. Review and refine with feedback  
+1. Understand product architecture and business goals  
+2. Analyze user workflows  
+3. Structure content logically  
+4. Write in clear global English  
+5. Refine through stakeholder feedback  
 
 ---
 
+## Let’s Work Together
 
-## Contact
+If your product needs structured, compliance-ready documentation, I can help.
 
 📧 **Email:** [fatima.umair.docs@gmail.com](mailto:fatima.umair.docs@gmail.com)  
 🔗 **LinkedIn:** [Fatima Umair](https://www.linkedin.com/in/fatima-umair-56b337224)
-
 
 Based in Pakistan • Working with global clients
