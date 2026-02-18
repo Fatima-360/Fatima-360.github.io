@@ -1,7 +1,14 @@
+[Home](/) | [Projects](#featured-projects) | [Contact](#lets-work-together)
+
+
+---
+
+
 # Fatima Umair  
 ### Fintech & SaaS Technical Writer
 
-Clear, structured documentation for complex digital products.
+**Clear, structured documentation for complex digital products.**
+
 
 I help Fintech and SaaS companies transform technical workflows, compliance processes, and product features into user-friendly documentation that improves onboarding and reduces support load.
 
