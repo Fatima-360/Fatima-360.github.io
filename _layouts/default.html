@@ -1,84 +1,159 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-      display: flex;
-      background: #f9fafc;
-      color: #222;
-    }
+<meta charset="UTF-8">
+<title>{{ page.title }}</title>
 
-    .sidebar {
-      width: 260px;
-      background: #111827;
-      color: white;
-      height: 100vh;
-      padding: 30px 20px;
-      position: fixed;
-    }
+<style>
+html {
+  scroll-behavior: smooth;
+}
 
-    .sidebar h2 {
-      font-size: 18px;
-      margin-bottom: 20px;
-    }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: #f9fafb;
+  color: #1f2937;
+  display: flex;
+}
 
-    .sidebar a {
-      display: block;
-      color: #d1d5db;
-      text-decoration: none;
-      margin: 10px 0;
-      font-size: 14px;
-    }
+/* SIDEBAR */
+.sidebar {
+  width: 260px;
+  background: #111827;
+  color: #d1d5db;
+  height: 100vh;
+  position: sticky;
+  top: 0;
+  padding: 30px 20px;
+  overflow-y: auto;
+}
 
-    .sidebar a:hover {
-      color: white;
-    }
+.sidebar h2 {
+  font-size: 18px;
+  color: white;
+  margin-bottom: 25px;
+}
 
-    .content {
-      margin-left: 280px;
-      padding: 40px;
-      max-width: 900px;
-    }
+.sidebar a {
+  display: block;
+  text-decoration: none;
+  color: #9ca3af;
+  margin: 10px 0;
+  font-size: 14px;
+  transition: 0.2s ease;
+}
 
-    h1, h2, h3 {
-      color: #111827;
-    }
+.sidebar a:hover {
+  color: white;
+}
 
-    .toc {
-      background: white;
-      padding: 20px;
-      border-radius: 10px;
-      margin-bottom: 30px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-    }
+.sidebar a.active {
+  color: #38bdf8;
+  font-weight: 600;
+}
 
-  </style>
+/* MAIN CONTENT */
+.content {
+  flex: 1;
+  padding: 60px 60px;
+  max-width: 900px;
+}
+
+h1 {
+  font-size: 34px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-top: 60px;
+  font-size: 22px;
+}
+
+h3 {
+  margin-top: 30px;
+}
+
+p {
+  line-height: 1.7;
+  margin-top: 12px;
+}
+
+ul, ol {
+  margin-top: 12px;
+  padding-left: 20px;
+}
+
+.toc {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+}
+
+.toc a {
+  display: block;
+  font-size: 14px;
+  margin: 6px 0;
+  text-decoration: none;
+  color: #2563eb;
+}
+</style>
 </head>
 
 <body>
 
+<!-- SIDEBAR -->
 <div class="sidebar">
-  <h2>Fatima Umair</h2>
+  <h2>Documentation</h2>
   <a href="/">Home</a>
-  <a href="/content-case-study/">FinCore Wallet</a>
+  <a href="/content-case-study/">FinCore Case Study</a>
   <a href="/euroflow-guide/">EuroFlow SOP</a>
-  <a href="/technical-glossary/">Technical Glossary</a>
+  <a href="/technical-glossary/">Glossary</a>
 </div>
 
+<!-- MAIN CONTENT -->
 <div class="content">
 
-  <div class="toc">
-    <strong>On This Page</strong>
-    <p>This section contains structured documentation.</p>
-  </div>
+<h1>{{ page.title }}</h1>
 
-  {{ content }}
+<div class="toc" id="toc">
+<strong>On this page</strong>
+</div>
+
+{{ content }}
 
 </div>
+
+<script>
+/* AUTO TABLE OF CONTENTS */
+const toc = document.getElementById("toc");
+const headings = document.querySelectorAll("h2, h3");
+
+headings.forEach((heading, index) => {
+  const id = "section-" + index;
+  heading.id = id;
+
+  const link = document.createElement("a");
+  link.href = "#" + id;
+  link.textContent = heading.textContent;
+
+  if (heading.tagName === "H3") {
+    link.style.marginLeft = "15px";
+  }
+
+  toc.appendChild(link);
+});
+
+/* ACTIVE SIDEBAR HIGHLIGHT */
+const sidebarLinks = document.querySelectorAll(".sidebar a");
+sidebarLinks.forEach(link => {
+  if (link.href === window.location.href) {
+    link.classList.add("active");
+  }
+});
+</script>
 
 </body>
 </html>
