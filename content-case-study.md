@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Content Strategy | Building User Trust
-permalink: /content-case-study/
+title: FinCore Wallet Documentation
 ---
+
 
 
 # Case Study: Simplifying Financial Security for Non-Experts
