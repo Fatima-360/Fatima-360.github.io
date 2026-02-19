@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Financial SOP
+title: FinCore Wallet Documentation
 ---
+
 
 # SOP: EU VAT Reconciliation Process
 
