@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Content Strategy | Building User Trust
+permalink: /content-case-study/
 ---
+
 
 # Case Study: Simplifying Financial Security for Non-Experts
 
