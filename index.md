@@ -1,3 +1,9 @@
+---
+layout: home
+title: Fatima Umair | Fintech & SaaS Technical Writer
+---
+
+
 [Home](/) | [Projects](#featured-projects) | [Contact](#lets-work-together)
 
 
