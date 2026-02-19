@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      display: flex;
+      background: #f9fafc;
+      color: #222;
+    }
+
+    .sidebar {
+      width: 260px;
+      background: #111827;
+      color: white;
+      height: 100vh;
+      padding: 30px 20px;
+      position: fixed;
+    }
+
+    .sidebar h2 {
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
+
+    .sidebar a {
+      display: block;
+      color: #d1d5db;
+      text-decoration: none;
+      margin: 10px 0;
+      font-size: 14px;
+    }
+
+    .sidebar a:hover {
+      color: white;
+    }
+
+    .content {
+      margin-left: 280px;
+      padding: 40px;
+      max-width: 900px;
+    }
+
+    h1, h2, h3 {
+      color: #111827;
+    }
+
+    .toc {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      margin-bottom: 30px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    }
+
+  </style>
+</head>
+
+<body>
+
+<div class="sidebar">
+  <h2>Fatima Umair</h2>
+  <a href="/">Home</a>
+  <a href="/content-case-study/">FinCore Wallet</a>
+  <a href="/euroflow-guide/">EuroFlow SOP</a>
+  <a href="/technical-glossary/">Technical Glossary</a>
+</div>
+
+<div class="content">
+
+  <div class="toc">
+    <strong>On This Page</strong>
+    <p>This section contains structured documentation.</p>
+  </div>
+
+  {{ content }}
+
+</div>
+
+</body>
+</html>
