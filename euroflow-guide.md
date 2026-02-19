@@ -1,6 +1,7 @@
 ---
 layout: default
-title: EuroFlow User Guide
+title: EuroFlow — VAT Reconciliation SOP
+permalink: /euroflow-guide/
 ---
 
 # EuroFlow Quick-Start Guide: Submitting Expenses
