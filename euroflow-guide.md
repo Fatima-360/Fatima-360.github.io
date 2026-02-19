@@ -1,8 +1,8 @@
 ---
 layout: default
-title: EuroFlow — VAT Reconciliation SOP
-permalink: /euroflow-guide/
+title: FinCore Wallet Documentation
 ---
+
 
 # EuroFlow Quick-Start Guide: Submitting Expenses
 
