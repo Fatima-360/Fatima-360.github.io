@@ -1,22 +1,52 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>FinCore Wallet Case Study</title>
+<title>FinCore Wallet Documentation</title>
 
 <style>
 body {
     margin: 0;
     font-family: 'Segoe UI', sans-serif;
-    background-color: #0f172a;
+    background: #0f172a;
     color: #f1f5f9;
+    display: flex;
 }
 
-.container {
-    max-width: 900px;
-    margin: auto;
-    padding: 80px 20px;
+/* Sidebar */
+.sidebar {
+    width: 250px;
+    background: #111827;
+    padding: 30px 20px;
+    height: 100vh;
+    position: fixed;
+    overflow-y: auto;
+}
+
+.sidebar h2 {
+    color: #38bdf8;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.sidebar a {
+    display: block;
+    color: #94a3b8;
+    text-decoration: none;
+    margin-bottom: 12px;
+    font-size: 14px;
+}
+
+.sidebar a:hover {
+    color: #38bdf8;
+}
+
+/* Main Content */
+.content {
+    margin-left: 270px;
+    padding: 60px 40px;
+    max-width: 800px;
 }
 
 h1 {
@@ -24,68 +54,120 @@ h1 {
 }
 
 .section {
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .card {
     background: #1e293b;
     padding: 25px;
-    border-radius: 12px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+/* Table of Contents */
+.toc {
+    background: #111827;
+    padding: 20px;
+    border-radius: 10px;
     margin-top: 20px;
 }
 
-a {
+.toc a {
+    display: block;
     color: #38bdf8;
     text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 8px;
 }
 
 .back {
-    margin-top: 40px;
+    margin-top: 60px;
     display: inline-block;
+    color: #38bdf8;
+    text-decoration: none;
 }
 </style>
 </head>
 
 <body>
 
-<div class="container">
+<!-- SIDEBAR -->
+<div class="sidebar">
+    <h2>FinCore Docs</h2>
+    <a href="#overview">Overview</a>
+    <a href="#account">Account Creation</a>
+    <a href="#kyc">KYC Verification</a>
+    <a href="#errors">Common Errors</a>
+    <a href="#security">Security Tips</a>
+    <a href="/">← Back to Home</a>
+</div>
 
-<h1>FinCore Wallet — Onboarding & KYC Documentation</h1>
+<!-- MAIN CONTENT -->
+<div class="content">
 
-<div class="section">
+<h1>FinCore Wallet Documentation</h1>
+
+<div class="toc">
+<strong>Table of Contents</strong>
+<a href="#overview">1. Overview</a>
+<a href="#account">2. Account Creation</a>
+<a href="#kyc">3. KYC Verification</a>
+<a href="#errors">4. Common Errors</a>
+<a href="#security">5. Security Best Practices</a>
+</div>
+
+<div class="section" id="overview">
+    <h2>Overview</h2>
     <div class="card">
-        <strong>Project Overview</strong>
-        <p>Designed structured onboarding and KYC documentation for a digital wallet platform to improve clarity and compliance readiness.</p>
+        This documentation guides users through account creation,
+        identity verification, and security practices for the FinCore Wallet platform.
     </div>
 </div>
 
-<div class="section">
+<div class="section" id="account">
+    <h2>Account Creation</h2>
     <div class="card">
-        <strong>The Problem</strong>
-        <p>Users struggled with account setup and identity verification steps due to unclear documentation and missing error explanations.</p>
+        <ol>
+            <li>Download the FinCore app.</li>
+            <li>Enter your email and phone number.</li>
+            <li>Create a secure password.</li>
+            <li>Verify your email via OTP.</li>
+        </ol>
     </div>
 </div>
 
-<div class="section">
+<div class="section" id="kyc">
+    <h2>KYC Verification</h2>
     <div class="card">
-        <strong>My Solution</strong>
         <ul>
-            <li>Created step-by-step onboarding guide</li>
-            <li>Documented KYC verification process</li>
-            <li>Added common error handling explanations</li>
-            <li>Structured FAQ section for support reduction</li>
+            <li>Upload government-issued ID.</li>
+            <li>Complete selfie verification.</li>
+            <li>Submit proof of address (if required).</li>
         </ul>
     </div>
 </div>
 
-<div class="section">
+<div class="section" id="errors">
+    <h2>Common Errors</h2>
     <div class="card">
-        <strong>Impact</strong>
-        <p>Improved user clarity during verification and reduced onboarding confusion for new users.</p>
+        <ul>
+            <li><strong>ID Rejected:</strong> Ensure image is clear and not cropped.</li>
+            <li><strong>OTP Expired:</strong> Request a new verification code.</li>
+            <li><strong>Verification Delayed:</strong> Review may take up to 24 hours.</li>
+        </ul>
     </div>
 </div>
 
-<a href="/" class="back">← Back to Home</a>
+<div class="section" id="security">
+    <h2>Security Best Practices</h2>
+    <div class="card">
+        <ul>
+            <li>Enable two-factor authentication.</li>
+            <li>Never share OTP codes.</li>
+            <li>Log out from shared devices.</li>
+        </ul>
+    </div>
+</div>
 
 </div>
 
