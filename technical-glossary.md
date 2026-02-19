@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Technical Glossary
+title: FinCore Wallet Documentation
 ---
 
 # Fintech & SaaS Technical Glossary
